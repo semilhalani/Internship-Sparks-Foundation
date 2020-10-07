@@ -2,4 +2,4 @@ Task #5 - To explore Business Analytics
 
 You are the business owner of the retail firm and want to see how your company is performing. You are interested in finding out the weak areas where you can work to make more profit. What all business problems you can derive by looking into the data? You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel).
 
-Solution: The solution for the above mentioned task is in the filed named "Task #5 - Super Store Business Analytics". I have performed various data visualizations for better understanding of the given dataset using the 'seaborn' and 'matplotlib' library.
+Solution: The solution for the above mentioned task is in the filed named "Task #5 - Super Store Business Analytics". I have used Python for performing the assigned task here. Various data visualizations of the given dataset are performed using the 'seaborn' and 'matplotlib' library  for better understanding .
